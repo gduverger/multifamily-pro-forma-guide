@@ -161,5 +161,7 @@ NOI divided by annual debt service (principal + interest).
 ---
 
 ## Section Summary and What’s Next
+
 We covered the four **top‑level outputs** that drive investment decisions: **IRR, CoC, EM, and DSCR**—including definitions, Excel equivalents, examples, and common modeling choices.  
+
 **Next:** Part 2 steps down into the **building blocks (EGI, NOI, Operating Expenses)** that produce these outputs.

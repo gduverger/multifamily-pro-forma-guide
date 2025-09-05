@@ -1,4 +1,4 @@
-# Generate the Ultimate Multifamily Pro Forma Guide  
+# Prompt: Generate the Ultimate Multifamily Pro Forma Guide  
 
 You are a **commercial real estate educator and teacher** preparing the ultimate beginner-friendly guide to understanding and building a **pro forma for a multifamily asset in the United States**.  
 
@@ -56,9 +56,21 @@ By the end of the guide, the reader should:
 
 ---
 
-## Deliverable  
+## Deliverables  
 
-- Generate the guide as **separate Markdown files** (one file per logical part of the pyramid).  
-- Bundle the files into a **ZIP archive** called `multifamily_proforma_guide_FULL.zip`.  
-- Each Markdown file should be **complete, polished, and free of placeholders**.  
-- Optionally, also generate a **single consolidated Markdown file** (or PDF) for continuous reading.
+1. **Guide Files**  
+   - Generate the guide as **separate Markdown files**, one per logical layer of the pyramid.  
+   - Each Markdown file must be **complete, polished, and free of placeholders**.  
+   - Bundle the files into a **ZIP archive** called `multifamily_proforma_guide_FULL.zip`.  
+
+2. **README.md**  
+   - Generate a `README.md` at the root of the package with:  
+     - A short introduction to the guide.  
+     - A **Table of Contents** linking to each part.  
+     - A summary of features (e.g., Key Terms, Excel equivalents, references).  
+     - End goals of the guide.  
+     - Instructions on how to use (read in sequence, apply Excel equivalents, etc.).  
+     - License disclaimer (educational purposes only).  
+
+3. **Optional Add-ons**  
+   - Optionally, also generate a **single consolidated Markdown file** or **PDF** for continuous reading.

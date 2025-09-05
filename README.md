@@ -4,8 +4,6 @@ This repository contains a **beginner-friendly, step-by-step guide** to understa
 
 The guide is structured in a **pyramid fashion**: starting with the big picture (investment outputs), then working down through the building blocks (NOI, EGI, expenses), and finally arriving at the detailed inputs (rent rolls, financing). Along the way, adjacent concepts, naming conventions, and common controversies are introduced.  
 
-<video controls src="multifamily-pro-forma-guide.mp4"></video>
-
 Download the [audio overview](multifamily-pro-forma-guide.mp3).
 
 ---

@@ -4,29 +4,34 @@ This repository contains a **beginner-friendly, step-by-step guide** to understa
 
 The guide is structured in a **pyramid fashion**: starting with the big picture (investment outputs), then working down through the building blocks (NOI, EGI, expenses), and finally arriving at the detailed inputs (rent rolls, financing). Along the way, adjacent concepts, naming conventions, and common controversies are introduced.  
 
+<audio controls>
+  <source src="multifamily-pro-forma-guide.m4a" type="audio/mpeg">
+</audio>
+Listen to the [audio overview](multifamily-pro-forma-guide.m4a).
+
 ---
 
 ## Table of Contents
 
-1. [Part 1 — Top-Level Metrics](part1_top_metrics.md)  
+1. [Part 1 — Top-Level Metrics](part1-top-metrics.md)  
    - Internal Rate of Return (IRR)  
    - Cash-on-Cash Return (CoC)  
    - Equity Multiple (EM)  
    - Debt Service Coverage Ratio (DSCR)  
    - Adjacent concepts (Preferred Return, Exit Cap Rate, Sensitivity, CapEx Reserves)  
 
-2. [Part 2 — Building Blocks](part2_building_blocks.md)  
+2. [Part 2 — Building Blocks](part2-building-blocks.md)  
    - Effective Gross Income (EGI)  
    - Net Operating Income (NOI)  
    - Operating Expenses  
 
-3. [Part 3 — Inputs](part3_inputs.md)  
+3. [Part 3 — Inputs](part3-inputs.md)  
    - Rent Roll  
    - Vacancy Assumptions  
    - Expense Ratios  
    - Financing Terms  
 
-4. [Part 4 — Adjacent and Granular Concepts](part4_adjacent.md)  
+4. [Part 4 — Adjacent and Granular Concepts](part4-adjacent.md)  
    - CapEx Reserves  
    - T12 Financials  
    - Exit Cap Rates & Sale Proceeds  
@@ -35,7 +40,7 @@ The guide is structured in a **pyramid fashion**: starting with the big picture 
    - Real vs. Nominal Modeling  
    - Taxes & Depreciation (context)  
 
-5. [Part 5 — Summary and Next Steps](part5_summary.md)  
+5. [Part 5 — Summary and Next Steps](part5-summary.md)  
    - Recap of inputs → building blocks → outputs  
    - Minimal working pro forma model (step-by-step with Excel equivalents)  
    - Common naming/assumption pitfalls  
@@ -68,7 +73,7 @@ By the end of the guide, readers will:
 
 ## How to Use
 
-- Read the files in sequence (`part1_top_metrics.md` → `part5_summary.md`).  
+- Read the files in sequence (`part1-top-metrics.md` → `part5-summary.md`).  
 - Each file builds on the previous, forming a complete pyramid.  
 - Use the Excel equivalents provided to build your own spreadsheet model.  
 

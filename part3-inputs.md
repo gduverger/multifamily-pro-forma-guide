@@ -11,7 +11,7 @@ The rent roll drives GPR and therefore EGI, NOI, DSCR, and value. Precision here
 **Definition**  
 A schedule of units by type and rent level, multiplied by counts and adjusted for term/lease status as needed.
 
-Simple: This is the full list of units and their rents. It shows the total rent if all units were occupied, like a roster that adds up everyone’s ticket price.
+In simple terms, This is the full list of units and their rents. It shows the total rent if all units were occupied, like a roster that adds up everyone’s ticket price.
 
 **Key Terms**  
 - **Unit mix**: counts by floor plan (studio/1BR/2BR).  
@@ -31,9 +31,11 @@ Simple: This is the full list of units and their rents. It shows the total rent 
 
 **Example 1 — 20 Units**  
 - 10 @ $1,200; 10 @ $1,400 → GPR = (12,000 + 14,000)*12 = **$312,000**
+Put plainly, 20 units at the stated rents produce $312k annual rent when full.
 
 **Example 2 — 100 Units**  
 - 40 @ $1,500; 60 @ $2,000 → GPR = (60,000 + 120,000)*12 = **$2,160,000**
+Said differently, 100 units at $1,500–$2,000 generate $2.16M rent annually when full.
 
 ---
 
@@ -45,7 +47,7 @@ Vacancy materially reduces collectible income; using realistic market vacancy is
 **Definition**  
 Percent of GPR assumed uncollected due to unoccupied units and/or non‑payment.
 
-Simple: This is the rent you assume will be lost because some units are empty or unpaid. It’s like planning for some empty seats in a theater—you don’t expect 100% attendance.
+Put plainly, This is the rent you assume will be lost because some units are empty or unpaid. It’s like planning for some empty seats in a theater—you don’t expect 100% attendance.
 
 **Key Terms**  
 - **Physical vacancy** vs **economic vacancy**.  
@@ -64,9 +66,11 @@ Simple: This is the rent you assume will be lost because some units are empty or
 
 **Example 1 — Suburban**  
 - GPR **$312,000**; Vacancy **5%** → **$15,600** loss
+In simple terms, 5% vacancy means $15.6k rent lost from $312k potential.
 
 **Example 2 — Urban**  
 - GPR **$2,160,000**; Vacancy **7%** → **$151,200** loss
+Another way to say it is, 7% vacancy means $151k lost from $2.16M potential.
 
 ---
 
@@ -78,7 +82,7 @@ When detailed line‑item data is limited, ratios help sanity‑check OpEx level
 **Definition**  
 Operating expenses as a percent of EGI.
 
-Simple: This shows operating costs as a share of income. It’s like checking if groceries, bills, and gas take half your salary or more—quick test for reasonableness.
+In simple terms, This shows operating costs as a share of income. It’s like checking if groceries, bills, and gas take half your salary or more—quick test for reasonableness.
 
 **Key Terms**  
 - **Stabilized**: normal operations after lease‑up/renovation.  
@@ -96,9 +100,11 @@ Simple: This shows operating costs as a share of income. It’s like checking if
 
 **Example 1**  
 - EGI **$305,400**; OpEx **$120,000** → **39.3%**
+Put plainly, expenses use up 39% of income, leaving 61% margin.
 
 **Example 2**  
 - EGI **$2,128,800**; OpEx **$920,000** → **43.2%**
+Said differently, expenses consume 43% of income, leaving 57% margin.
 
 ---
 
@@ -110,7 +116,7 @@ Debt costs determine DSCR, cash flow to equity, and IRR. Underwriting is often c
 **Definition**  
 Loan amount, interest rate, amortization, term, IO (interest‑only) periods, LTV, LTC.
 
-Simple: These are the loan details—amount, rate, years to pay back. They determine the yearly payment, just like a mortgage sets your monthly housing cost.
+Said differently, These are the loan details—amount, rate, years to pay back. They determine the yearly payment, just like a mortgage sets your monthly housing cost.
 
 **Key Terms**  
 - **Mortgage constant**: annual debt service ÷ loan amount.  
@@ -133,9 +139,11 @@ Simple: These are the loan details—amount, rate, years to pay back. They deter
 
 **Example 1 — $2.0M Loan, 5.00%, 25‑yr Amort**  
 - Annual DS ≈ **$140,496**; Balance after 5 yrs ≈ **$1,751,000**
+In simple terms, a $2M loan at 5% requires $140k yearly payments, with $1.75M still owed after 5 years.
 
 **Example 2 — $10.0M Loan, 6.00%, 30‑yr Amort**  
 - Annual DS ≈ **$719,460**; Balance after 7 yrs ≈ **$8,946,000**
+Another way to say it is, a $10M loan at 6% costs $719k yearly, with $8.95M owed after 7 years.
 
 **Naming & Common Controversies**  
 - Whether to size to **LTV** or **DSCR** binding constraint; prudent underwriting uses the lower loan of the two.

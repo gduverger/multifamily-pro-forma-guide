@@ -4,7 +4,7 @@
 ## Part 4: Adjacent and Granular Concepts
 
 ### 1) Replacement (CapEx) Reserves
-Simple: Money set aside each year for big future fixes (roof, heating system). It’s like saving for a new car—you don’t buy it every year, but you plan ahead.
+Said differently, Money set aside each year for big future fixes (roof, heating system). It’s like saving for a new car—you don’t buy it every year, but you plan ahead.
 **What**: Budget set aside annually for future major replacements (roof, boilers, parking lots).  
 **Where in model**: Often **below NOI** (i.e., not part of OpEx) but subtracted before distributions to equity; some lenders include a minimum reserve in underwriting.  
 **Excel**  
@@ -19,7 +19,7 @@ Simple: Money set aside each year for big future fixes (roof, heating system). I
 ---
 
 ### 2) T12 (Trailing‑12‑Month) Financials
-Simple: The last 12 months of actual income and costs. It’s like looking at your bank statements for the past year to see your real spending and earnings.
+Another way to say it is, The last 12 months of actual income and costs. It’s like looking at your bank statements for the past year to see your real spending and earnings.
 **What**: Actual historical income/expense for the last 12 months; forms the baseline for stabilization assumptions.  
 **Uses**: Normalize one‑time items, trend taxes, and reconcile to forward pro forma.  
 
@@ -32,7 +32,7 @@ No single formula. In Excel, sum the last 12 months of each line item (e.g., `=S
 ---
 
 ### 3) Exit Assumptions (Sale Price, Costs, Loan Payoff)
-Simple: These are the numbers for selling the property at the end: sale price, costs to sell, and remaining loan. The result is the net cash left for investors.
+Said differently, These are the numbers for selling the property at the end: sale price, costs to sell, and remaining loan. The result is the net cash left for investors.
 **Formulas**  
 ```math
 \text{Sale Price at Exit} = \frac{\text{NOI}_{exit}}{\text{Exit Cap Rate}}
@@ -55,7 +55,7 @@ Simple: These are the numbers for selling the property at the end: sale price, c
 ---
 
 ### 4) Sensitivity & Scenario Analysis
-Simple: This is testing ‘what if’ questions, like what happens if rents grow slower or if the sale price is lower. It’s like adjusting ingredients in a recipe to see how the taste changes.
+Said differently, This is testing ‘what if’ questions, like what happens if rents grow slower or if the sale price is lower. It’s like adjusting ingredients in a recipe to see how the taste changes.
 **What**: Systematic “what‑if” tests for key drivers (rent growth, vacancy, OpEx, exit cap, interest rates).  
 **Excel**: Data Table, Scenario Manager, and index‑based drivers.  
 **Examples**  
@@ -68,7 +68,7 @@ Use Excel **Data Table** or **Scenario Manager**. For a one‑way table, link th
 ---
 
 ### 5) Break‑Even Metrics
-Simple: These show the point where income just covers costs and debt. It’s like figuring out how many hours you must work to cover rent and food before any savings.
+Put plainly, These show the point where income just covers costs and debt. It’s like figuring out how many hours you must work to cover rent and food before any savings.
 **Formulas**  
 ```math
 \text{Break‑Even Occupancy} = \frac{\text{OpEx} + \text{Debt Service}}{\text{GPR} + \text{Other Income}}
@@ -88,7 +88,7 @@ Simple: These show the point where income just covers costs and debt. It’s lik
 ---
 
 ### 6) Real vs Nominal Modeling
-Simple: Nominal numbers include inflation; real numbers remove it. It’s like comparing today’s dollars versus what they buy in the future. Be consistent when you discount or grow numbers.
+Put plainly, Nominal numbers include inflation; real numbers remove it. It’s like comparing today’s dollars versus what they buy in the future. Be consistent when you discount or grow numbers.
 **What**: Decide whether rents/expenses grow in **nominal** terms (include inflation) or **real** terms (inflation‑adjusted). Keep consistent with discount rates.  
 **Note**: Many pro formas are nominal (explicit growth rates plus nominal discount rates).
 
@@ -101,7 +101,7 @@ Simple: Nominal numbers include inflation; real numbers remove it. It’s like c
 ---
 
 ### 7) Taxes & Depreciation (Context Only)
-Simple: This guide stops at property cash flow before taxes. Personal taxes depend on each investor, like how different workers face different tax brackets.
+Another way to say it is, This guide stops at property cash flow before taxes. Personal taxes depend on each investor, like how different workers face different tax brackets.
 Pro formas in this guide are **pre‑tax** at the property level. Investor‑level tax modeling (e.g., MACRS depreciation, passive loss limits) is complex and outside scope. Coordinate with a CPA.
 
 **Formula / Excel (applicability)**  

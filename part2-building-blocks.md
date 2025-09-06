@@ -11,7 +11,7 @@ EGI is the *actual* income the property is expected to collect after normal loss
 **Definition**  
 Potential income from rent (Gross Potential Rent, GPR) adjusted for vacancy and credit loss, plus other income (parking, laundry, storage, RUBS, pet fees).
 
-Simple: This is the income the property can really collect after normal losses like empty units or unpaid rent, plus extras like parking or laundry fees. It’s like your paycheck after accounting for missed workdays.
+In simple terms, This is the income the property can really collect after normal losses like empty units or unpaid rent, plus extras like parking or laundry fees. It’s like your paycheck after accounting for missed workdays.
 
 **Key Terms**  
 - **GPR**: rent at 100% physical/economic occupancy at market (or in‑place) rents.  
@@ -32,10 +32,12 @@ Simple: This is the income the property can really collect after normal losses l
 **Example 1 — Suburban 20‑Unit**  
 - Units: 10 @ $1,200, 10 @ $1,400 → GPR = (10*1,200 + 10*1,400)*12 = **$312,000**  
 - Vacancy (5%): **$15,600**; Other income: **$9,000** → **EGI = $305,400**
+In simple terms, $312k potential rent is reduced by vacancy, leaving $305k real income.
 
 **Example 2 — Urban 100‑Unit**  
 - Units: 40 @ $1,500, 60 @ $2,000 → GPR = (40*1,500 + 60*2,000)*12 = **$2,160,000**  
 - Vacancy (7%): **$151,200**; Other income: **$120,000** → **EGI = $2,128,800**
+Another way to say it is, $2.16M potential rent becomes $2.13M after vacancy and extras.
 
 **Naming & Common Controversies**  
 - Some models include **concessions** explicitly (rent discounts). Keep them separate for clarity.
@@ -53,7 +55,7 @@ NOI drives value (via cap rates), loan sizing (via DSCR), and investor returns. 
 **Definition**  
 EGI minus operating expenses (excluding debt service, income taxes, and “below‑the‑line” capital expenditures).
 
-Simple: This is the money left after paying the property’s normal bills but before paying the loan or taxes. It’s like your salary after work expenses but before mortgage and taxes.
+Another way to say it is, This is the money left after paying the property’s normal bills but before paying the loan or taxes. It’s like your salary after work expenses but before mortgage and taxes.
 
 **Key Terms**  
 - **Operating expenses**: property taxes, insurance, management, payroll, repairs/maintenance, utilities, admin, common area.  
@@ -71,9 +73,11 @@ Simple: This is the money left after paying the property’s normal bills but be
 
 **Example 1 — Mid‑Sized Building**  
 - EGI **$305,400**; Operating expenses **$120,000** → **NOI = $185,400**
+Put plainly, $305k income minus $120k expenses leaves $185k profit.
 
 **Example 2 — Large Complex**  
 - EGI **$2,128,800**; Operating expenses **$860,000** → **NOI = $1,268,800**
+Said differently, $2.13M income minus $860k expenses leaves $1.27M profit.
 
 **Naming & Common Controversies**  
 - Whether **replacement reserves** sit above or below NOI. State your convention and keep it consistent.
@@ -91,7 +95,7 @@ Small errors in OpEx materially change NOI, DSCR, and value. Benchmarks help val
 **Definition**  
 Recurring costs to operate the property (taxes, insurance, utilities, payroll, repairs, contract services, management, admin).
 
-Simple: These are the regular costs to keep the property running: taxes, insurance, utilities, repairs, staff. It’s like the bills a household pays every month to function.
+Another way to say it is, These are the regular costs to keep the property running: taxes, insurance, utilities, repairs, staff. It’s like the bills a household pays every month to function.
 
 **Key Terms**  
 - **Fixed** vs **variable** expenses (taxes/insurance vs utilities/repairs).  
@@ -110,9 +114,11 @@ Simple: These are the regular costs to keep the property running: taxes, insuran
 
 **Example 1 — Suburban**  
 - Taxes 55k, Insurance 25k, Utilities 18k, Repairs 22k, Mgmt 9k, Admin 6k → **OpEx = $135k**
+In simple terms, the suburban property spends $135k yearly to operate.
 
 **Example 2 — Urban**  
 - Taxes 420k, Insurance 95k, Utilities 110k, Repairs 135k, Payroll 80k, Mgmt 60k, Admin 20k → **OpEx = $920k**
+In simple terms, the suburban property spends $135k yearly to operate.
 
 **Naming & Common Controversies**  
 - Use **T12** actuals where possible, adjust to stabilized; document any one‑time items removed.

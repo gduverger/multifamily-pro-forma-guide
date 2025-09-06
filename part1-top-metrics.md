@@ -11,7 +11,7 @@ IRR is a single annualized return that accounts for the *timing* and *magnitude*
 **Definition**  
 IRR is the discount rate that sets the net present value (NPV) of all equity cash flows equal to zero.
 
-Simple: This shows the average yearly return from the investment. Think of it like comparing the property’s performance to a stock or bond: it tells you what percent you earn each year, once all money in and out is counted.
+Put plainly, This shows the average yearly return from the investment. Think of it like comparing the property’s performance to a stock or bond: it tells you what percent you earn each year, once all money in and out is counted.
 
 **Key Terms**  
 - **Cash flow**: net money distributed to equity after operating expenses, reserves (if modeled), and debt service.  
@@ -32,12 +32,14 @@ Simple: This shows the average yearly return from the investment. Think of it li
 - Years 1–5 distributions: **$80,000** each year  
 - Year‑5 sale proceeds to equity: **$1,300,000**  
 - Vector: –1,000,000; 80,000; 80,000; 80,000; 80,000; 1,380,000 → **IRR ≈ 12.4%**
+In simple terms, investing $1M gives $80k yearly plus $1.3M at sale, about a 12% yearly return.
 
 **Example 2 — 100‑Unit Property (7‑Year Hold)**  
 - Equity (CF0): **–$5,000,000**  
 - Years 1–7 distributions: **$400,000** each year  
 - Year‑7 sale proceeds to equity: **$6,200,000**  
 - Vector: –5,000,000; 400,000×6; 6,600,000 → **IRR ≈ 14.6%**
+Another way to say it is, $5M invested returns $400k yearly and $6.2M at sale, close to 15% per year.
 
 **Naming & Common Controversies**  
 - Whether to include **reserves** as cash outflows before IRR (best practice: yes, if they’re actually funded).  
@@ -57,7 +59,7 @@ CoC is a simple first‑year (or period‑specific) yield measure: how much pre�
 **Definition**  
 Annual pre‑tax cash flow divided by total equity invested (period‑specific, commonly Year‑1).
 
-Simple: This tells you how much cash you earn in one year compared to what you invested. It’s like checking the interest you get on a savings account, but for property cash flow.
+Said differently, This tells you how much cash you earn in one year compared to what you invested. It’s like checking the interest you get on a savings account, but for property cash flow.
 
 **Key Terms**  
 - **Equity invested**: total cash contributed by investors at closing (and subsequent capital calls, if any).  
@@ -76,9 +78,11 @@ Simple: This tells you how much cash you earn in one year compared to what you i
 
 **Example 1 — Suburban Asset**  
 - Equity: **$1,200,000**; Year‑1 pre‑tax cash flow: **$96,000** → **CoC = 8.0%**
+Put plainly, $1.2M invested earns $96k in year one, an 8% return.
 
 **Example 2 — Urban Asset**  
 - Equity: **$2,500,000**; Year‑1 pre‑tax cash flow: **$175,000** → **CoC = 7.0%**
+Said differently, $2.5M invested earns $175k in year one, a 7% return.
 
 **Naming & Common Controversies**  
 - Some report **stabilized CoC** (first “steady‑state” year) vs **Year‑1 CoC** (may be depressed during lease‑up). State which you use.
@@ -97,7 +101,7 @@ EM measures *total* money back to equity relative to money in. It ignores timing
 **Definition**  
 Total cash returned to equity (including sale) divided by total equity invested.
 
-Simple: This shows how many dollars you get back in total for each dollar you put in. For example, putting in $1 and getting back $2 means a 2.0x multiple. It’s like looking at the scale of return without caring about time.
+Another way to say it is, This shows how many dollars you get back in total for each dollar you put in. For example, putting in $1 and getting back $2 means a 2.0x multiple. It’s like looking at the scale of return without caring about time.
 
 **Key Terms**  
 - **Total distributions**: all periodic distributions plus net sale proceeds to equity.
@@ -115,9 +119,11 @@ Simple: This shows how many dollars you get back in total for each dollar you pu
 
 **Example 1 — Value‑Add**  
 - Equity: **$1,500,000**; Total back over 6 years: **$3,000,000** → **EM = 2.0x**
+In simple terms, $1.5M becomes $3M over 6 years, doubling the investment (2.0x multiple).
 
 **Example 2 — Core**  
 - Equity: **$4,000,000**; Total back over 10 years: **$6,400,000** → **EM = 1.6x**
+Another way to say it is, $4M grows to $6.4M over 10 years, a 1.6x multiple.
 
 **Naming & Common Controversies**  
 - Clarify whether you include **refinance proceeds** as distributions (many do).
@@ -136,7 +142,7 @@ DSCR is a primary lender constraint indicating the cushion of income over debt s
 **Definition**  
 NOI divided by annual debt service (principal + interest).
 
-Simple: This shows if the property’s income is enough to cover loan payments with a margin of safety. Banks view it like a stress test: above 1.0 means income is bigger than debt payments, leaving cushion.
+Put plainly, This shows if the property’s income is enough to cover loan payments with a margin of safety. Banks view it like a stress test: above 1.0 means income is bigger than debt payments, leaving cushion.
 
 **Key Terms**  
 - **NOI**: income after operating expenses, before debt service and taxes.  
@@ -155,9 +161,11 @@ Simple: This shows if the property’s income is enough to cover loan payments w
 
 **Example 1 — Conservative Leverage**  
 - NOI **$900,000**; Debt service **$700,000** → **DSCR = 1.29**
+Put plainly, income is 29% higher than the $700k debt cost, showing strong coverage.
 
 **Example 2 — Aggressive Leverage**  
 - NOI **$800,000**; Debt service **$720,000** → **DSCR = 1.11**
+Said differently, income barely covers the $720k debt with only 11% cushion, making it riskier.
 
 **Naming & Common Controversies**  
 - Lenders often require **1.20–1.25x** minimum; some use **Underwritten NOI** (with haircuts to rents/other income).

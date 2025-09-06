@@ -6,16 +6,22 @@
 ### 1) Internal Rate of Return (IRR)
 
 **Why It Matters**  
-IRR is a single annualized return that accounts for the *timing* and *magnitude* of all cash flows—periodic cash distributions and the sale—relative to the initial equity invested. It is widely used to compare deals with different cash‑flow patterns and hold periods.
+IRR is a single annualized return that accounts for the *timing* and *magnitude* of all cash flows (periodic cash distributions and the sale) relative to the initial equity invested (the money investors put in out of pocket, not the bank’s loan money). It is widely used to compare deals with different cash‑flow patterns and hold periods.
 
 **Definition**  
-IRR is the discount rate that sets the net present value (NPV) of all equity cash flows equal to zero.
+_IRR is the discount rate that sets the net present value (NPV) of all equity cash flows equal to zero._
 
-Put plainly, This shows the average yearly return from the investment. Think of it like comparing the property’s performance to a stock or bond: it tells you what percent you earn each year, once all money in and out is counted.
+In other words, it’s the rate of return that makes the investment “break even” in today’s dollars.
 
-**Key Terms**  
-- **Cash flow**: net money distributed to equity after operating expenses, reserves (if modeled), and debt service.  
-- **Sales proceeds**: net cash to equity at sale after paying selling costs and the outstanding loan balance.  
+This shows the average yearly return from the investment. Think of it like comparing the property’s performance to a stock or bond: it tells you what percent you earn each year, once all money in and out is counted.
+
+**Key Terms** 
+- **Equity**: The cash that the investors themselves put into the deal at the start (their own money, not borrowed from a bank). It’s often called “equity invested” or “investor equity.” 
+- **Cash flow (CF)**: net money distributed to equity (i.e., it’s given out to the owners/investors in proportion to their ownership) after operating expenses, reserves (if modeled), and debt service.  
+- **Sales proceeds**: net cash to equity (owners/investors) at sale after paying selling costs and the outstanding loan balance.
+- **Present value**: How much a future amount of money is worth today, once you adjust for time. Money in the future is worth less than money today (because you could invest today’s money, or inflation erodes value).
+- **Reserves**: Money the property sets aside each year for future big expenses (new roof, replacing boilers or HVAC systems, repaving the parking lot), not for day-to-day operations.
+- **Sales costs (selling costs)**: The transaction expenses you pay when you sell the property (broker commission, legal fees, transfer taxes).
 
 **Formula**  
 ```math
@@ -32,6 +38,7 @@ Put plainly, This shows the average yearly return from the investment. Think of 
 - Years 1–5 distributions: **$80,000** each year  
 - Year‑5 sale proceeds to equity: **$1,300,000**  
 - Vector: –1,000,000; 80,000; 80,000; 80,000; 80,000; 1,380,000 → **IRR ≈ 12.4%**
+
 In simple terms, investing $1M gives $80k yearly plus $1.3M at sale, about a 12% yearly return.
 
 **Example 2 — 100‑Unit Property (7‑Year Hold)**  
@@ -39,6 +46,7 @@ In simple terms, investing $1M gives $80k yearly plus $1.3M at sale, about a 12%
 - Years 1–7 distributions: **$400,000** each year  
 - Year‑7 sale proceeds to equity: **$6,200,000**  
 - Vector: –5,000,000; 400,000×6; 6,600,000 → **IRR ≈ 14.6%**
+
 Another way to say it is, $5M invested returns $400k yearly and $6.2M at sale, close to 15% per year.
 
 **Naming & Common Controversies**  

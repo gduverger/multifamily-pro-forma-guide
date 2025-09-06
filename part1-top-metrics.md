@@ -8,8 +8,7 @@
 **Why It Matters**  
 IRR is a single annualized return that accounts for the *timing* and *magnitude* of all cash flows (periodic cash distributions and the sale) relative to the initial equity invested (the money investors put in out of pocket, not the bank’s loan money). It is widely used to compare deals with different cash‑flow patterns and hold periods.
 
-**Definition**  
-_IRR is the discount rate that sets the net present value (NPV) of all equity cash flows equal to zero._
+**Definition**: _IRR is the discount rate that sets the net present value (NPV) of all equity cash flows equal to zero._
 
 In other words, it’s the rate of return that makes the investment “break even” in today’s dollars.
 
@@ -64,8 +63,7 @@ Another way to say it is, $5M invested returns $400k yearly and $6.2M at sale, c
 **Why It Matters**  
 CoC is a simple first‑year (or period‑specific) yield measure: how much pre‑tax cash an investor receives relative to the equity invested. It’s intuitive for gauging near‑term income.
 
-**Definition**  
-Annual pre‑tax cash flow divided by total equity invested (period‑specific, commonly Year‑1).
+**Definition**: _Annual pre‑tax cash flow divided by total equity invested (period‑specific, commonly Year‑1)._
 
 Said differently, This tells you how much cash you earn in one year compared to what you invested. It’s like checking the interest you get on a savings account, but for property cash flow.
 
@@ -106,8 +104,7 @@ Said differently, $2.5M invested earns $175k in year one, a 7% return.
 **Why It Matters**  
 EM measures *total* money back to equity relative to money in. It ignores timing but communicates overall magnitude of return.
 
-**Definition**  
-Total cash returned to equity (including sale) divided by total equity invested.
+**Definition**: _Total cash returned to equity (including sale) divided by total equity invested._
 
 Another way to say it is, This shows how many dollars you get back in total for each dollar you put in. For example, putting in $1 and getting back $2 means a 2.0x multiple. It’s like looking at the scale of return without caring about time.
 
@@ -147,8 +144,7 @@ Another way to say it is, $4M grows to $6.4M over 10 years, a 1.6x multiple.
 **Why It Matters**  
 DSCR is a primary lender constraint indicating the cushion of income over debt service.
 
-**Definition**  
-NOI divided by annual debt service (principal + interest).
+**Definition**: _NOI divided by annual debt service (principal + interest)._
 
 Put plainly, This shows if the property’s income is enough to cover loan payments with a margin of safety. Banks view it like a stress test: above 1.0 means income is bigger than debt payments, leaving cushion.
 

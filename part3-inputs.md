@@ -11,6 +11,8 @@ The rent roll drives GPR and therefore EGI, NOI, DSCR, and value. Precision here
 **Definition**  
 A schedule of units by type and rent level, multiplied by counts and adjusted for term/lease status as needed.
 
+Simple: This is the full list of units and their rents. It shows the total rent if all units were occupied, like a roster that adds up everyone’s ticket price.
+
 **Key Terms**  
 - **Unit mix**: counts by floor plan (studio/1BR/2BR).  
 - **Market rent vs in‑place rent**: achievable vs current signed rents.  
@@ -43,6 +45,8 @@ Vacancy materially reduces collectible income; using realistic market vacancy is
 **Definition**  
 Percent of GPR assumed uncollected due to unoccupied units and/or non‑payment.
 
+Simple: This is the rent you assume will be lost because some units are empty or unpaid. It’s like planning for some empty seats in a theater—you don’t expect 100% attendance.
+
 **Key Terms**  
 - **Physical vacancy** vs **economic vacancy**.  
 - **Concessions**: rent discounts used in leasing promotions.
@@ -74,6 +78,8 @@ When detailed line‑item data is limited, ratios help sanity‑check OpEx level
 **Definition**  
 Operating expenses as a percent of EGI.
 
+Simple: This shows operating costs as a share of income. It’s like checking if groceries, bills, and gas take half your salary or more—quick test for reasonableness.
+
 **Key Terms**  
 - **Stabilized**: normal operations after lease‑up/renovation.  
 - **Benchmarking**: comparing to similar properties/markets.
@@ -103,6 +109,8 @@ Debt costs determine DSCR, cash flow to equity, and IRR. Underwriting is often c
 
 **Definition**  
 Loan amount, interest rate, amortization, term, IO (interest‑only) periods, LTV, LTC.
+
+Simple: These are the loan details—amount, rate, years to pay back. They determine the yearly payment, just like a mortgage sets your monthly housing cost.
 
 **Key Terms**  
 - **Mortgage constant**: annual debt service ÷ loan amount.  

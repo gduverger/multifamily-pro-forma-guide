@@ -11,6 +11,8 @@ IRR is a single annualized return that accounts for the *timing* and *magnitude*
 **Definition**  
 IRR is the discount rate that sets the net present value (NPV) of all equity cash flows equal to zero.
 
+Simple: This shows the average yearly return from the investment. Think of it like comparing the property’s performance to a stock or bond: it tells you what percent you earn each year, once all money in and out is counted.
+
 **Key Terms**  
 - **Cash flow**: net money distributed to equity after operating expenses, reserves (if modeled), and debt service.  
 - **Sales proceeds**: net cash to equity at sale after paying selling costs and the outstanding loan balance.  
@@ -55,6 +57,8 @@ CoC is a simple first‑year (or period‑specific) yield measure: how much pre�
 **Definition**  
 Annual pre‑tax cash flow divided by total equity invested (period‑specific, commonly Year‑1).
 
+Simple: This tells you how much cash you earn in one year compared to what you invested. It’s like checking the interest you get on a savings account, but for property cash flow.
+
 **Key Terms**  
 - **Equity invested**: total cash contributed by investors at closing (and subsequent capital calls, if any).  
 - **Pre‑tax cash flow**: cash after operating expenses, reserves (if modeled), and debt service, before income taxes.
@@ -93,6 +97,8 @@ EM measures *total* money back to equity relative to money in. It ignores timing
 **Definition**  
 Total cash returned to equity (including sale) divided by total equity invested.
 
+Simple: This shows how many dollars you get back in total for each dollar you put in. For example, putting in $1 and getting back $2 means a 2.0x multiple. It’s like looking at the scale of return without caring about time.
+
 **Key Terms**  
 - **Total distributions**: all periodic distributions plus net sale proceeds to equity.
 
@@ -129,6 +135,8 @@ DSCR is a primary lender constraint indicating the cushion of income over debt s
 
 **Definition**  
 NOI divided by annual debt service (principal + interest).
+
+Simple: This shows if the property’s income is enough to cover loan payments with a margin of safety. Banks view it like a stress test: above 1.0 means income is bigger than debt payments, leaving cushion.
 
 **Key Terms**  
 - **NOI**: income after operating expenses, before debt service and taxes.  

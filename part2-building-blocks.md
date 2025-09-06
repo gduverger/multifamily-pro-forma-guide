@@ -11,6 +11,8 @@ EGI is the *actual* income the property is expected to collect after normal loss
 **Definition**  
 Potential income from rent (Gross Potential Rent, GPR) adjusted for vacancy and credit loss, plus other income (parking, laundry, storage, RUBS, pet fees).
 
+Simple: This is the income the property can really collect after normal losses like empty units or unpaid rent, plus extras like parking or laundry fees. It’s like your paycheck after accounting for missed workdays.
+
 **Key Terms**  
 - **GPR**: rent at 100% physical/economic occupancy at market (or in‑place) rents.  
 - **Vacancy/Credit loss**: reductions for unoccupied units and non‑payment.  
@@ -51,6 +53,8 @@ NOI drives value (via cap rates), loan sizing (via DSCR), and investor returns. 
 **Definition**  
 EGI minus operating expenses (excluding debt service, income taxes, and “below‑the‑line” capital expenditures).
 
+Simple: This is the money left after paying the property’s normal bills but before paying the loan or taxes. It’s like your salary after work expenses but before mortgage and taxes.
+
 **Key Terms**  
 - **Operating expenses**: property taxes, insurance, management, payroll, repairs/maintenance, utilities, admin, common area.  
 - **Replacement reserves**: some treat these as below‑the‑line (not in NOI); lenders often underwrite a minimum reserve.
@@ -86,6 +90,8 @@ Small errors in OpEx materially change NOI, DSCR, and value. Benchmarks help val
 
 **Definition**  
 Recurring costs to operate the property (taxes, insurance, utilities, payroll, repairs, contract services, management, admin).
+
+Simple: These are the regular costs to keep the property running: taxes, insurance, utilities, repairs, staff. It’s like the bills a household pays every month to function.
 
 **Key Terms**  
 - **Fixed** vs **variable** expenses (taxes/insurance vs utilities/repairs).  

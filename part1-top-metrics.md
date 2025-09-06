@@ -5,8 +5,7 @@
 
 ### 1) Internal Rate of Return (IRR)
 
-**Definition**:
-
+**Definition**
 _IRR is the discount rate that sets the net present value (NPV) of all equity cash flows equal to zero._
 
 In other words, it’s the rate of return that makes the investment “break even” in today’s dollars. This shows the average yearly return from the investment. Think of it like comparing the property’s performance to a stock or bond: it tells you what percent you earn each year, once all money in and out is counted.

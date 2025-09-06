@@ -34,9 +34,9 @@ IRR is a single annualized return that accounts for the *timing* and *magnitude*
 - Equity (CF0): **–$1,000,000**  
 - Years 1–5 distributions: **$80,000** each year  
 - Year‑5 sale proceeds to equity: **$1,300,000**  
-- Vector: –1,000,000; 80,000; 80,000; 80,000; 80,000; 1,380,000 → **IRR ≈ 12.4%**
+- Vector: –1,000,000; 80,000; 80,000; 80,000; 80,000; 1,380,000 → **IRR ≈ 12.66%**
 
-In simple terms, investing $1M gives $80k yearly plus $1.3M at sale, about a 12% yearly return.
+In simple terms, investing $1M gives $80k yearly plus $1.3M at sale, about a 12.5% yearly return.
 
 **Example 2 — 100‑Unit Property (7‑Year Hold)**  
 - Equity (CF0): **–$5,000,000**  

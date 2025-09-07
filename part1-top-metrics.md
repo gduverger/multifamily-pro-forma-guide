@@ -36,7 +36,7 @@ IRR is a single annualized return that accounts for the *timing* and *magnitude*
 - Year‑5 sale proceeds to equity: **$1,300,000**  
 - Vector: –1,000,000; 80,000; 80,000; 80,000; 80,000; 1,380,000 → **IRR ≈ 12.66%**
 
-In simple terms, investing $1M gives $80k yearly plus $1.3M at sale, about a 12.5% yearly return.
+In simple terms, investing $1M gives $80k yearly plus $1.3M at sale, about a 13% yearly return.
 
 **Example 2 — 100‑Unit Property (7‑Year Hold)**  
 - Equity (CF0): **–$5,000,000**  
@@ -58,12 +58,14 @@ Another way to say it is, $5M invested returns $400k yearly and $6.2M at sale, c
 
 ### 2) Cash‑on‑Cash Return (CoC)
 
-**Why It Matters**  
-CoC is a simple first‑year (or period‑specific) yield measure: how much pre‑tax cash an investor receives relative to the equity invested. It’s intuitive for gauging near‑term income.
-
 **Definition**: _Annual pre‑tax cash flow divided by total equity invested (period‑specific, commonly Year‑1)._
 
-Said differently, This tells you how much cash you earn in one year compared to what you invested. It’s like checking the interest you get on a savings account, but for property cash flow.
+Said differently, this tells you how much cash you earn in one year compared to what you invested (while IRR measures your total annualized return over the full investment including timing and sale proceeds). It’s like checking the interest you get on a savings account, but for property cash flow.
+
+Technically, CoC can be shown for any year (Year-2, stabilized Year-3, etc.) or even as an average across the hold. But when someone just says “CoC,” it usually defaults to Year-1 unless specified. Some models also show a “stabilized CoC” once the property reaches steady operations after renovations/lease-up.
+
+**Why It Matters**  
+CoC is a simple first‑year (or period‑specific) yield measure: how much pre‑tax cash an investor receives relative to the equity invested. It’s intuitive for gauging near‑term income.
 
 **Key Terms**  
 - **Equity invested**: total cash contributed by investors at closing (and subsequent capital calls, if any).  
@@ -76,16 +78,20 @@ Said differently, This tells you how much cash you earn in one year compared to 
 
 **Excel Equivalents**  
 ```excel
-=Annual_CashFlow / Equity_Invested
-=INDEX(CashFlows, t) / Equity_Invested
+= AnnualCashFlow / EquityInvested
+= INDEX(CashFlows, t) / EquityInvested
 ```
 
 **Example 1 — Suburban Asset**  
-- Equity: **$1,200,000**; Year‑1 pre‑tax cash flow: **$96,000** → **CoC = 8.0%**
+- Equity: **$1,200,000**
+- Year‑1 pre‑tax cash flow: **$96,000** → **CoC = 8.0%**
+
 Put plainly, $1.2M invested earns $96k in year one, an 8% return.
 
 **Example 2 — Urban Asset**  
-- Equity: **$2,500,000**; Year‑1 pre‑tax cash flow: **$175,000** → **CoC = 7.0%**
+- Equity: **$2,500,000**
+- Year‑1 pre‑tax cash flow: **$175,000** → **CoC = 7.0%**
+
 Said differently, $2.5M invested earns $175k in year one, a 7% return.
 
 **Naming & Common Controversies**  

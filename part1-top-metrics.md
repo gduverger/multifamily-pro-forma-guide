@@ -192,7 +192,7 @@ Put plainly, income is 29% higher than the $700k debt cost, showing strong cover
 Said differently, income barely covers the $720k debt with only 11% cushion, making it riskier.
 
 **Naming & Common Controversies**  
-- Lenders often require **1.20–1.25x** minimum; some use **Underwritten NOI** (with haircuts to rents/other income).
+- Lenders often require **1.20–1.25x** minimum; some use **underwritten NOI** (with haircuts to rents/other income).
 
 **References**  
 - HUD Multifamily — Programs & underwriting: https://www.hud.gov/program_offices/housing/mfh  
@@ -202,6 +202,6 @@ Said differently, income barely covers the $720k debt with only 11% cushion, mak
 
 ## Section Summary and What’s Next
 
-We covered the four **top‑level outputs** that drive investment decisions: **IRR, CoC, EM, and DSCR**—including definitions, Excel equivalents, examples, and common modeling choices.  
+We covered the four **top‑level outputs** that drive investment decisions: **IRR, CoC, EM, and DSCR** — including definitions, Excel equivalents, examples, and common modeling choices.  
 
 **Next:** Part 2 steps down into the **building blocks (EGI, NOI, Operating Expenses)** that produce these outputs.

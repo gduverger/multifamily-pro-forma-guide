@@ -151,15 +151,17 @@ Another way to say it is, $4M grows to $6.4M over 10 years, a 1.6x multiple.
 
 ### 4) Debt Service Coverage Ratio (DSCR)
 
+**Definition**: _NOI (Net Operating Income) divided by annual debt service (principal + interest)._
+
+Put plainly, this shows if the property’s income is enough to cover loan payments with a margin of safety. Banks view it like a stress test: above 1.0 means income is bigger than debt payments, leaving cushion.
+
+Mortgage payment in casual language might include principal, interest, property taxes, and insurance. But in real estate finance, for DSCR, we only want the loan debt service portion: the required principal + interest payments to the lender. It excludes property taxes, insurance, reserves, fees, or other escrowed items. It includes only what the lender requires to amortize the loan (the actual debt service). Some loans are interest-only (no principal paid during the term). In that case, “annual debt service (principal + interest)” makes it clear that the denominator could be just interest if no principal is due that year.
+
 **Why It Matters**  
 DSCR is a primary lender constraint indicating the cushion of income over debt service.
 
-**Definition**: _NOI divided by annual debt service (principal + interest)._
-
-Put plainly, This shows if the property’s income is enough to cover loan payments with a margin of safety. Banks view it like a stress test: above 1.0 means income is bigger than debt payments, leaving cushion.
-
 **Key Terms**  
-- **NOI**: income after operating expenses, before debt service and taxes.  
+- **Net operating income (NOI)**: income after operating expenses, before debt service and taxes.  
 - **Debt service**: scheduled annual mortgage payments.
 
 **Formula**  

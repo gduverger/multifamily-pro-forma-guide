@@ -1,6 +1,4 @@
-# Multifamily Pro Forma FAQ
-
----
+# Frequently Asked Questions
 
 ### Is cash flow calculated after debt service?  
 

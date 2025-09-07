@@ -79,8 +79,8 @@ CoC is a simple first‑year (or period‑specific) yield measure: how much pre�
 
 **Excel Equivalents**  
 ```excel
-= AnnualCashFlow / EquityInvested
-= INDEX(CashFlows, t) / EquityInvested
+=AnnualCashFlow / EquityInvested
+=INDEX(CashFlows, t) / EquityInvested
 ```
 
 **Example 1 — Suburban Asset**  
@@ -106,12 +106,12 @@ Said differently, $2.5M invested earns $175k in year one, a 7% return.
 
 ### 3) Equity Multiple (EM)
 
-**Why It Matters**  
-EM measures *total* money back to equity relative to money in. It ignores timing but communicates overall magnitude of return.
-
 **Definition**: _Total cash returned to equity (including sale) divided by total equity invested._
 
-Another way to say it is, This shows how many dollars you get back in total for each dollar you put in. For example, putting in $1 and getting back $2 means a 2.0x multiple. It’s like looking at the scale of return without caring about time.
+Another way to say it is, this shows how many dollars you get back in total for each dollar you put in. For example, putting in $1 and getting back $2 means a 2.0x multiple. It’s like looking at the scale of return without caring about time.
+
+**Why It Matters**  
+EM measures *total* money back to equity relative to money in. It ignores timing but communicates overall magnitude of return.
 
 **Key Terms**  
 - **Total distributions**: all periodic distributions plus net sale proceeds to equity.
@@ -128,11 +128,15 @@ Another way to say it is, This shows how many dollars you get back in total for 
 ```
 
 **Example 1 — Value‑Add**  
-- Equity: **$1,500,000**; Total back over 6 years: **$3,000,000** → **EM = 2.0x**
+- Equity: **$1,500,000**
+- Total back over 6 years: **$3,000,000** → **EM = 2.0x**
+
 In simple terms, $1.5M becomes $3M over 6 years, doubling the investment (2.0x multiple).
 
 **Example 2 — Core**  
-- Equity: **$4,000,000**; Total back over 10 years: **$6,400,000** → **EM = 1.6x**
+- Equity: **$4,000,000**
+- Total back over 10 years: **$6,400,000** → **EM = 1.6x**
+
 Another way to say it is, $4M grows to $6.4M over 10 years, a 1.6x multiple.
 
 **Naming & Common Controversies**  

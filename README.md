@@ -15,12 +15,11 @@ _Download the [audio overview](multifamily-pro-forma-guide.mp3)._
    - Cash-on-Cash Return (CoC)  
    - Equity Multiple (EM)  
    - Debt Service Coverage Ratio (DSCR)  
-   - Adjacent concepts (Preferred Return, Exit Cap Rate, Sensitivity, CapEx Reserves)  
 
 2. [Part 2 — Building Blocks](part2-building-blocks.md)  
    - Effective Gross Income (EGI)  
    - Net Operating Income (NOI)  
-   - Operating Expenses  
+   - Operating Expenses (OpEx)  
 
 3. [Part 3 — Inputs](part3-inputs.md)  
    - Rent Roll  

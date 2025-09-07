@@ -1,4 +1,3 @@
-
 # The Ultimate Multifamily Pro Forma Guide
 
 ## Part 4: Adjacent and Granular Concepts

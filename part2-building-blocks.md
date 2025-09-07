@@ -1,4 +1,3 @@
-
 # The Ultimate Multifamily Pro Forma Guide
 
 ## Part 2: The Building Blocks — EGI, NOI, and Operating Expenses

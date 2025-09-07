@@ -1,4 +1,3 @@
-
 # The Ultimate Multifamily Pro Forma Guide
 
 ## Part 1: Start from the End — The Top-Level Metrics

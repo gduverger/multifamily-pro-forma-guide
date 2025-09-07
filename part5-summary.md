@@ -1,4 +1,3 @@
-
 # The Ultimate Multifamily Pro Forma Guide
 
 ## Part 5: Summary and Next Steps

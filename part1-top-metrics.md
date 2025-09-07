@@ -155,7 +155,9 @@ Another way to say it is, $4M grows to $6.4M over 10 years, a 1.6x multiple.
 
 Put plainly, this shows if the property’s income is enough to cover loan payments with a margin of safety. Banks view it like a stress test: above 1.0 means income is bigger than debt payments, leaving cushion.
 
-Mortgage payment in casual language might include principal, interest, property taxes, and insurance. But in real estate finance, for DSCR, we only want the loan debt service portion: the required principal + interest payments to the lender. It excludes property taxes, insurance, reserves, fees, or other escrowed items. It includes only what the lender requires to amortize the loan (the actual debt service). Some loans are interest-only (no principal paid during the term). In that case, “annual debt service (principal + interest)” makes it clear that the denominator could be just interest if no principal is due that year.
+Mortgage payment in casual language might include principal, interest, property taxes, and insurance. But in real estate finance, for DSCR, we only want the loan debt service portion: the required principal + interest payments to the lender. It excludes property taxes, insurance, reserves, fees, or other escrowed items. It includes only what the lender requires to amortize the loan (the actual debt service).
+
+Some loans are interest-only (no principal paid during the term). In that case, “annual debt service (principal + interest)” makes it clear that the denominator could be just interest if no principal is due that year.
 
 **Why It Matters**  
 DSCR is a primary lender constraint indicating the cushion of income over debt service.
@@ -171,16 +173,20 @@ DSCR is a primary lender constraint indicating the cushion of income over debt s
 
 **Excel Equivalents**  
 ```excel
-=NOI / Debt_Service
+=NOI / DebtService
 =NOI / (PMT(rate/12, amort*12, -LoanAmount)*12)
 ```
 
 **Example 1 — Conservative Leverage**  
-- NOI **$900,000**; Debt service **$700,000** → **DSCR = 1.29**
+- NOI **$900,000**
+- Debt service **$700,000** → **DSCR = 1.29**
+
 Put plainly, income is 29% higher than the $700k debt cost, showing strong coverage.
 
 **Example 2 — Aggressive Leverage**  
-- NOI **$800,000**; Debt service **$720,000** → **DSCR = 1.11**
+- NOI **$800,000**
+- Debt service **$720,000** → **DSCR = 1.11**
+
 Said differently, income barely covers the $720k debt with only 11% cushion, making it riskier.
 
 **Naming & Common Controversies**  

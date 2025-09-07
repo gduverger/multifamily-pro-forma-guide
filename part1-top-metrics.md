@@ -13,12 +13,12 @@ In other words, it’s the rate of return that makes the investment “break eve
 IRR is a single annualized return that accounts for the *timing* and *magnitude* of all cash flows (periodic cash distributions and the sale) relative to the initial equity invested (the money investors put in out of pocket, not the bank’s loan money). It is widely used to compare deals with different cash‑flow patterns and hold periods.
 
 **Key Terms** 
-- **Equity**: The cash that the investors themselves put into the deal at the start (their own money, not borrowed from a bank). It’s often called “equity invested” or “investor equity.” 
+- **Equity**: the cash that the investors themselves put into the deal at the start (their own money, not borrowed from a bank). It’s often called “equity invested” or “investor equity.” 
 - **Cash flow (CF)**: net money distributed to equity (i.e., it’s given out to the owners/investors in proportion to their ownership) after operating expenses, reserves (if modeled), and debt service.  
 - **Sales proceeds**: net cash to equity (owners/investors) at sale after paying selling costs and the outstanding loan balance.
-- **Present value**: How much a future amount of money is worth today, once you adjust for time. Money in the future is worth less than money today (because you could invest today’s money, or inflation erodes value).
-- **Reserves**: Money the property sets aside each year for future big expenses (new roof, replacing boilers or HVAC systems, repaving the parking lot), not for day-to-day operations.
-- **Sales costs (selling costs)**: The transaction expenses you pay when you sell the property (broker commission, legal fees, transfer taxes).
+- **Present value**: how much a future amount of money is worth today, once you adjust for time. Money in the future is worth less than money today (because you could invest today’s money, or inflation erodes value).
+- **Reserves**: money the property sets aside each year for future big expenses (new roof, replacing boilers or HVAC systems, repaving the parking lot), not for day-to-day operations.
+- **Sales costs (selling costs)**: the transaction expenses you pay when you sell the property (broker commission, legal fees, transfer taxes).
 
 **Formula**  
 ```math

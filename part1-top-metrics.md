@@ -165,6 +165,8 @@ DSCR is a primary lender constraint indicating the cushion of income over debt s
 **Key Terms**  
 - **Net operating income (NOI)**: income after operating expenses, before debt service and taxes.  
 - **Debt service**: scheduled annual mortgage payments.
+- **Underwritten NOI**: the NOI figure the lender chooses to use for their underwriting, which may be lower than the sponsor’s pro forma NOI. Lenders often apply haircuts (conservative adjustments) to rents (assume slightly lower rents or slower lease-up), other income (discount things like parking, storage, or one-time fees), vacancy (assume higher vacancy than current/projected), expenses (pad operating costs upward).
+- **Sponsor**: the deal’s owner/operator (the GP, General Partner).
 
 **Formula**  
 ```math
@@ -178,14 +180,14 @@ DSCR is a primary lender constraint indicating the cushion of income over debt s
 ```
 
 **Example 1 — Conservative Leverage**  
-- NOI **$900,000**
-- Debt service **$700,000** → **DSCR = 1.29**
+- NOI: **$900,000**
+- Debt service: **$700,000** → **DSCR = 1.29**
 
 Put plainly, income is 29% higher than the $700k debt cost, showing strong coverage.
 
 **Example 2 — Aggressive Leverage**  
-- NOI **$800,000**
-- Debt service **$720,000** → **DSCR = 1.11**
+- NOI: **$800,000**
+- Debt service: **$720,000** → **DSCR = 1.11**
 
 Said differently, income barely covers the $720k debt with only 11% cushion, making it riskier.
 

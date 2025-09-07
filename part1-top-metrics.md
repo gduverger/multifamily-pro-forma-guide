@@ -115,6 +115,7 @@ EM measures *total* money back to equity relative to money in. It ignores timing
 
 **Key Terms**  
 - **Total distributions**: all periodic distributions plus net sale proceeds to equity.
+- **Refinance proceeds**: the extra cash investors receive when a new loan is taken out that’s larger than the old loan payoff.
 
 **Formula**  
 ```math
@@ -140,7 +141,7 @@ In simple terms, $1.5M becomes $3M over 6 years, doubling the investment (2.0x m
 Another way to say it is, $4M grows to $6.4M over 10 years, a 1.6x multiple.
 
 **Naming & Common Controversies**  
-- Clarify whether you include **refinance proceeds** as distributions (many do).
+- Clarify whether you include **refinance proceeds** as distributions (many do). Because refinance is uncertain (depends on market conditions and lender appetite), it’s not guaranteed cash. Including it inflates EM and IRR compared to a no-refi case. That’s why good practice is to disclose (“EM including refinance proceeds = 2.0x” vs “EM excluding refinance proceeds = 1.6x”).
 
 **References**  
 - Investopedia — Equity Multiple: https://www.investopedia.com/terms/e/equity-multiple.asp  

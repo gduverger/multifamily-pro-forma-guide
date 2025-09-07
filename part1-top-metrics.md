@@ -70,6 +70,7 @@ CoC is a simple first‑year (or period‑specific) yield measure: how much pre�
 **Key Terms**  
 - **Equity invested**: total cash contributed by investors at closing (and subsequent capital calls, if any).  
 - **Pre‑tax cash flow**: cash after operating expenses, reserves (if modeled), and debt service, before income taxes.
+- **Lease-up**: the period right after acquisition or construction when units are still being rented out and occupancy is ramping up.
 
 **Formula**  
 ```math
@@ -95,7 +96,7 @@ Put plainly, $1.2M invested earns $96k in year one, an 8% return.
 Said differently, $2.5M invested earns $175k in year one, a 7% return.
 
 **Naming & Common Controversies**  
-- Some report **stabilized CoC** (first “steady‑state” year) vs **Year‑1 CoC** (may be depressed during lease‑up). State which you use.
+- Some report **stabilized CoC** (first “steady‑state” year) vs **Year‑1 CoC** (may be depressed during lease‑up). Year-1 CoC might understate true performance because early cash flow is reduced while the property fills up with tenants. State which you use.
 
 **References**  
 - NAIOP — Investment metrics primer: https://www.naiop.org/  
